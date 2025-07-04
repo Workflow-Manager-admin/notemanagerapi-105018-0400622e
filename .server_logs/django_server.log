@@ -1,0 +1,60 @@
+Operations to perform:
+  Apply all migrations: admin, auth, authtoken, contenttypes, sessions
+Running migrations:
+  Applying authtoken.0001_initial... OK
+  Applying authtoken.0002_auto_20160226_1747... OK
+  Applying authtoken.0003_tokenproxy... OK
+  Applying authtoken.0004_alter_tokenproxy_options... OK
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 04, 2025 - 04:44:24
+Django version 5.2, using settings 'config.settings'
+Starting development server at http://0.0.0.0:3001/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+[04/Jul/2025 05:02:40] "HEAD /docs HTTP/1.1" 301 0
+[04/Jul/2025 05:02:40] "HEAD /docs HTTP/1.1" 301 0
+Unauthorized: /docs/
+[04/Jul/2025 05:02:40] "HEAD /docs/ HTTP/1.1" 401 0
+Unauthorized: /docs/
+[04/Jul/2025 05:02:40] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:02:40] "HEAD /docs HTTP/1.1" 301 0
+[04/Jul/2025 05:02:40] "HEAD /docs HTTP/1.1" 301 0
+Unauthorized: /docs/
+[04/Jul/2025 05:02:41] "HEAD /docs HTTP/1.1" 301 0
+[04/Jul/2025 05:02:41] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:02:41] "HEAD /docs HTTP/1.1" 301 0
+Unauthorized: /docs/
+[04/Jul/2025 05:02:41] "HEAD /docs/ HTTP/1.1" 401 0
+Unauthorized: /docs/
+Unauthorized: /docs/
+[04/Jul/2025 05:02:41] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:02:41] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:02:42] "HEAD /docs HTTP/1.1" 301 0
+Unauthorized: /docs/
+[04/Jul/2025 05:02:43] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:02:45] "HEAD /docs HTTP/1.1" 301 0
+Unauthorized: /docs/
+[04/Jul/2025 05:02:45] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:02:52] "HEAD /docs HTTP/1.1" 301 0
+Unauthorized: /docs/
+[04/Jul/2025 05:02:52] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:07:38] "HEAD /docs HTTP/1.1" 301 0
+Unauthorized: /docs/
+[04/Jul/2025 05:07:38] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:24:07] "HEAD /docs HTTP/1.1" 301 0
+[04/Jul/2025 05:24:07] "HEAD /docs HTTP/1.1" 301 0
+Unauthorized: /docs/
+Unauthorized: /docs/
+[04/Jul/2025 05:24:07] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:24:07] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:24:08] "HEAD /docs HTTP/1.1" 301 0
+[04/Jul/2025 05:24:08] "HEAD /docs HTTP/1.1" 301 0
+Unauthorized: /docs/
+Unauthorized: /docs/
+[04/Jul/2025 05:24:08] "HEAD /docs/ HTTP/1.1" 401 0
+[04/Jul/2025 05:24:08] "HEAD /docs/ HTTP/1.1" 401 0
